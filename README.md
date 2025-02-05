@@ -141,6 +141,9 @@ Each component operates under the unified Omnimind_Nexus architecture while main
 For technical discussions or partnership inquiries, please reach out through official channels. Given our sophisticated systems and institutional relationships, we maintain structured communication protocols.
 (Please check application to find contact information)
 
+https://www.prosperadefi.com (Currently not accessable by public)
+https://www.prosperaico.com (Down until February 7th-9th, 2025 as we process major backers through the ICO smart contract)
+
 ---
 
 *Confidential system architecture and infrastructure. Detailed technical documentation available for qualified partners under NDA. Source code and repositories remain proprietary and are not available to view. Updated as of February 2025.*
