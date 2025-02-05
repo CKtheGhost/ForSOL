@@ -27,7 +27,7 @@ Our sophisticated bridge infrastructure enables seamless connectivity between St
 Our revolutionary true AI system, Omnimind_Nexus, democratizes access to institutional-grade trading across the entire cryptocurrency market. By integrating with multiple networks, including Stellar, we enable users to connect their preferred exchange accounts directly to OMNv3's advanced trading capabilities. This groundbreaking accessibility allows retail investors to benefit from sophisticated AI-driven trading strategies previously reserved for institutional clients, while maintaining complete control of their assets on their chosen exchanges.
 
 ### Advanced Liquidity Management
-Our proprietary liquidity management system facilitates increased capital flow across multiple blockchain networks while enhancing Stellar's DeFi capabilities. This system optimizes liquidity pools and ensures efficient capital utilization across the entire network of supported chains.
+Our proprietary liquidity management system facilitates increased capital flow across multiple blockchain networks while enhancing Stellar's DeFi capabilities. This system optimizes liquidity pools and ensures efficient capital utilization across the entire network of supported chains (For the $ERA token).
 
 ### Multi-Chain Wallet Infrastructure 
 Our comprehensive wallet solution supports seamless asset transfers and management across all supported blockchain networks. This integration provides users with unified access to multiple chains while maintaining robust security protocols and operational efficiency.
